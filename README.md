@@ -25,6 +25,11 @@ O objetivo foi responder a perguntas-chave sobre o mercado de VEs:
 
 A análise revelou que o mercado não se divide apenas entre "eficiência" e "autonomia", mas que existe um terceiro grupo de elite:
 
+| Quadrante Ideal | Consumo Por Marcas |
+| :---: | :---: |
+| ![Quadrante Ideal](img/img1.png) | ![Consumo Por Marcas](img/img2.png) |
+
+
 * **O "Quadrante Ideal":** Descobrimos 44 veículos (25% dos VEs) que são **melhores que a média em AMBAS as métricas** (autonomia > 338 km e consumo < 0.62 MJ/km).
 * **Domínio do Equilíbrio:** Marcas como **Geely**, **MG** e **Volvo** se destacam neste quadrante, provando que é possível entregar alta autonomia sem sacrificar a eficiência.
 * **Os Extremos:** Os demais veículos se dividem entre "Campeões Urbanos" (ex: BYD Dolphin Mini) e "Maratonistas de Luxo" (ex: BMW iX), onde há um claro trade-off.
